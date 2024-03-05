@@ -1,0 +1,37 @@
+h1
+{
+    color: brown;
+}
+#signup
+{
+    background-color: brown;
+    color: white;
+    border-color: aliceblue;
+}
+ul
+{
+    color: deepskyblue;
+}
+.lista
+{
+    color: darkmagenta;
+}
+span button
+{
+    color: white;
+    background-color: black;
+}
+span button:hover
+{
+    color: black;
+    background-color: aqua;
+}
+h3 
+{
+    color: maroon;
+}
+p
+{
+    color: darkred;
+    background-color: gold;
+}
