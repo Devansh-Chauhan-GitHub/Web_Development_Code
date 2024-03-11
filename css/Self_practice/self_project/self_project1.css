@@ -215,10 +215,15 @@ h2
     background-color: white;
     border: 2px solid black;
     border-radius: 50px;
+    filter: drop-shadow(0 0 0.35rem black);
 }
 #nf
 {
     object-fit: cover;
     height: 100%;
     border-radius: 50px;
+}
+#right_big_card:hover
+{
+    filter: drop-shadow(0 0 0.75rem black);
 }
